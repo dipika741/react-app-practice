@@ -3,7 +3,7 @@ import ExpenseShow from "./expense-tracker/ExpenseShow";
 function App() {
   return (
     <div>
-      {/* <ExpenseShow /> */}
+      <ExpenseShow />
     </div>
   );
 }
